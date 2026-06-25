@@ -1,0 +1,8 @@
+edge/config/config.py
+config/config.py
+*.h5
+*.csv
+images/
+system.log
+__pycache__/
+*.pyc
