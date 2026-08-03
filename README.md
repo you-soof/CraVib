@@ -237,7 +237,7 @@ See the [Recommendations section of the project poster](docs/) for the proposed 
 
 ## Authors
 
-**Y. O. Shuaib** — International Hellenic University  
+**S. O. Yusuf** — International Hellenic University  
 syusuf@ihu.edu.gr
 
 **R. A. Ibrahim** — International Hellenic University  
