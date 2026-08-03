@@ -1,4 +1,4 @@
-# CraVib — IoT-Based Structural Health Monitoring System
+# CraVib: IoT-Based Structural Health Monitoring System
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![TensorFlow Lite](https://img.shields.io/badge/TFLite-2.x-orange.svg)](https://tensorflow.org/lite)
@@ -231,7 +231,7 @@ Pillow
 - System validated on a wall specimen only — not yet deployed on real infrastructure
 - Azure polling introduces 2–10 second latency in the digital twin
 
-See the [Recommendations section of the project poster](docs/) for the proposed upgrade roadmap.
+See the [Recommendations section of the project poster](docs/SHM_Crack_and_Vibration_Poster.pdf) for the proposed upgrade roadmap.
 
 ---
 
