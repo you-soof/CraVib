@@ -254,7 +254,7 @@ If you use CraVib in your research or project, please cite:
 
 ```bibtex
 @misc{cravib2025,
-  author = {Shuaib, Y.O. and Ibrahim, R.A.},
+  author = {Yusuf, S.O. and Ibrahim, R.A.},
   title  = {CraVib: IoT-Digital Twin-Based Crack and Vibration Detection in Structural Walls},
   year   = {2025},
   institution = {International Hellenic University},
